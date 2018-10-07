@@ -1,4 +1,4 @@
-### IF.03.01 Procedural Programming Winter 2017
+### IF.03.01 Procedural Programming
 
 # Assignment: Pocket Calculator
 
